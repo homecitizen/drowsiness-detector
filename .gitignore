@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+models/*.task
+logs/
+exploracion_backup.ipynb
+exploracion.ipynb
+Guia_Autonoma_Detector_Cierre_Ocular.pdf
+*.pyc
